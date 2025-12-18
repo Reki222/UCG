@@ -1,0 +1,29 @@
+{
+    "font_path": "C:/Users/pc/Documents/create_UCG_project/fonts/NotoSerifJP-VF.ttf",
+    "offsets": {
+        "name_x": 0,
+        "name_y": 0,
+        "cost_num_x": 0,
+        "cost_num_y": 0,
+        "pow_x": 0,
+        "pow_y": 0,
+        "param_x": 0,
+        "param_y": 0,
+        "effects_x": 0,
+        "effects_y": 0,
+        "footer_type_x": 0,
+        "footer_color_x": 0,
+        "footer_y": 0
+    },
+    "font_sizes": {
+        "name_1line": 15,
+        "cost": 16,
+        "pow_param": 13,
+        "effects_header": 10,
+        "effects_body": 10,
+        "footer": 12
+    },
+    "layout_options": {
+        "effects_max_width_px": 200
+    }
+}
